@@ -1,0 +1,6 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+recursive-include letter_management *.css *.csv *.html *.ico *.js *.json *.md *.png *.py *.svg *.txt
+recursive-exclude letter_management *.pyc

@@ -1,0 +1,14 @@
+[
+ {
+  "doctype": "Custom Field",
+  "name": "Letter Head-company",
+  "dt": "Letter Head",
+  "fieldname": "company",
+  "label": "Company",
+  "fieldtype": "Link",
+  "options": "Company",
+  "insert_after": "letter_head_name",
+  "in_standard_filter": 1,
+  "in_list_view": 1
+ }
+]
